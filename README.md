@@ -20,6 +20,10 @@ Simple, Modern & Awesome Loading Animation
 
 - [@MayankCoder123](https://github.com/MayankCoder123/)
 
+## Credits
+
+- [@Spandan455](https://github.com/spandan455/)
+
 ## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
