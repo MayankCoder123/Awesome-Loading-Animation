@@ -17,7 +17,7 @@ body {
 .loading {
   margin-top: 8rem;
   font-size: 2rem;
-  font-weight: bolder;
+  font-weight: lighter;
   font-family: Ubuntu;
   color: rgba(255, 255, 255, 0.7);
   animation: loading 1s linear infinite;
